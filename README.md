@@ -1,5 +1,9 @@
 AWS Static Website Deployment using S3 & CloudFront
 
+Note: Infrastructure has been deleted to avoid AWS charges. 
+Deployment screenshots are provided below.
+
+
 📌 Project Overview
 
 Deployed a production-style static website using Amazon S3 and CloudFront CDN. Implemented secure access using Origin Access Control and enabled HTTPS redirection.
