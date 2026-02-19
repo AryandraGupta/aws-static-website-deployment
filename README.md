@@ -50,6 +50,19 @@ Set default root object
 
 Verified secure access
 
+## S3 Bucket Configuration
+![S3 Objects](screenshots/s3-objects.png)
+
+## S3 Permissions
+![S3 Permissions](screenshots/s3-permissions.png)
+
+## CloudFront Distribution
+![CloudFront](screenshots/cloudfront-distribution.png)
+
+## Live Website
+![Live Website](screenshots/website-live.png)
+
+
 🌍 Outcome
 
 Website accessible globally via CloudFront
